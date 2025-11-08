@@ -9,7 +9,7 @@ const Header = ({
 }) => {
   return (
     <div className="header-container">
-      <h1 className="logo-text">Product Management App</h1>
+      <h1 className="logo-text">Product Management App </h1>
       <div className="action-container">
         <div className="search-bar">
           <input
