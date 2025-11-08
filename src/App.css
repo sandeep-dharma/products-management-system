@@ -98,6 +98,7 @@
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 18px;
   padding: 20px;
+  border: 1px solid #333;
 }
 
 .product-card {
