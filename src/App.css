@@ -168,6 +168,14 @@
   text-overflow: ellipsis;
 }
 
+.table-description {
+  color: #fff
+}
+
+.grid-description {
+  color: #222
+}
+
 .details {
   font-size: 14px;
   line-height: 1.6;

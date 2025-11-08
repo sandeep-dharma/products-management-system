@@ -26,7 +26,7 @@ const ListView = ({ products, handleEdit }) => {
                 <td>{p.price}</td>
                 <td>{p.category}</td>
                 <td>{p.stock}</td>
-                <td className="description" title={p.description}>
+                <td className="table-description description" title={p.description}>
                   {p.description}
                 </td>
                 <td>{new Date(p.createdAt).toLocaleDateString()}</td>

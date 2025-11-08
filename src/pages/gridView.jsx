@@ -17,7 +17,7 @@ const GridView = ({ products, handleEdit }) => {
                 </button>
               </div>
             </div>
-            <p className="description">{p.description}</p>
+            <p className="description grid-description">{p.description}</p>
             <div className="details">
               <p>
                 <strong>Category:</strong> {p.category}
